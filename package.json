@@ -1,0 +1,15 @@
+{
+  "name": "@foolishchow/babel-preset-taro-inject",
+  "version": "1.0.0",
+  "description": "Taro babel preset , which allow override taro react native apis and components",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foolishchow/babel-preset-taro-inject.git"
+  },
+  "author": "foolishchow",
+  "license": "ISC",
+  "peerDependencies": {
+    "babel-preset-taro": "~3"
+  }
+}
